@@ -1,0 +1,27 @@
+File structure
+---------------------
+|-AndoridManifest.xml
+|-src
+|-res
+|-libs
+|-build.xml
+|-project.properties
+|-ant.properties
+|-build.gradle
+|-reports
++-test
+ |-AndroidManifest.xml
+ |-src
+ |-res
+ |-libs
+ |-build.xml
+ |-project.properties
+ |-ant.properties
++-test-monkey
+ |-monkey.sh
++-test-monkeyrunner
+ |-monkeyrunner.py
++-test-robolectric
+ |-src
+ |-libs
+ 
